@@ -20,9 +20,9 @@
         {% if request.user.is_staff %}
         <li class="nav-item">
           <a class="nav-link" style="color: white;" href="{% url 'list_obras' %}" >Todas Obras</a> </li>
-           <li><a class="nav-link" style="color: white;" href="{% url 'export_obras' %}" >Exporta Obras</a></li>
+           <li><a class="nav-link" style="color: rgb(255, 255, 255);" href="{% url 'export_obras' %}" >Exporta Obras</a></li>
         <li class="nav-item">
-          <a class="nav-link" style="color: white;">usuário Admin do Sitema</a>
+          <a class="nav-link" style="color: rgb(255, 255, 255);">Usuário Admin do Sitema</a>
        
         {% else %}
       
