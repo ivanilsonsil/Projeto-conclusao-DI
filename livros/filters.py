@@ -1,3 +1,4 @@
+import datetime
 import django_filters
 from django_filters import DateFilter, CharFilter
 
@@ -5,7 +6,7 @@ from .models import *
 from django import forms
 
 class Date_input(forms.DateInput):
-	input_type : 'date'
+	input_type : 'datetime'
 
 
 class ObraFilter(django_filters.FilterSet):
