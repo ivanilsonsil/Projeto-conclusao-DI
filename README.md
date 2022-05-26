@@ -10,4 +10,5 @@ possibilidades de exluir livros, lista todos os livros, editar, exporta lista em
 Como roda o projeto??
 
 1 - git clone ....
-2 - instalar os requirements-dev.txt
+2 - Instalar requirements-dev.txt
+3 - python manage.py runserver 
