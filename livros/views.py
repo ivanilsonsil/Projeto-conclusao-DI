@@ -30,7 +30,7 @@ def register_page(request):
 			username = form.cleaned_data.get('username')
 
 
-			messages.success(request, 'Registrado a conta ' + username)
+			messages.success(request, 'Conta Registrada com Sucesso! ' + username)
 
 			return redirect('logar')
 		
@@ -53,7 +53,7 @@ def login_page(request):
 			login(request, user)
 			return redirect('home')
 		else:
-			messages.info(request, 'Usuário ou senha estão errados')
+			messages.info(request, 'Usuário ou senha estão Invalidos')
 
 	context = {}		
 	return render(request,'login.html')

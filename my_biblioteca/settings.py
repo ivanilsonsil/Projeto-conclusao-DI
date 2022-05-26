@@ -1,4 +1,3 @@
-#P
 import os
 from pathlib import Path
 from decouple import config
@@ -9,9 +8,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 SECRET_KEY = config('SECRET_KEY')
-DEBUG = [True]#config('DEBUG', default=False, cast=bool)
+DEBUG = True
 
-ALLOWED_HOSTS = []#['fxbiblioteca300.herokuapp.com','localhost']
+ALLOWED_HOSTS = []
 
 
 # Application definition

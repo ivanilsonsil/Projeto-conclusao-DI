@@ -9,7 +9,7 @@ def cliente_profile(sender, instance, created, **kwargs):
 	if created:
 		if not Group.objects.filter(name='leitor').exists():
 			print("criando grupo leitor")
-			Group.objects.create(nome='leitor')
+			Group.objects.create(name='leitor')
 		group = Group.objects.get(name='leitor')
 		instance.groups.add(group)
 		Leitor.objects.create(
