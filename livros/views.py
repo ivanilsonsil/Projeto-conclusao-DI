@@ -207,4 +207,3 @@ def remover_obra(request, id):
 
 	context = {'item':id_obra}
 	return render(request, 'delete.html', context)
-
