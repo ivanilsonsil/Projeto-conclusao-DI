@@ -1,4 +1,5 @@
 import os
+import django_heroku
 from pathlib import Path
 from decouple import config
 from dj_database_url import parse as dburl
@@ -10,7 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = config('SECRET_KEY')
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://heroku--api.herokuapp.com/']
 
 
 # Application definition
@@ -115,4 +116,6 @@ MEDIA_URL = '/images/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 
+
 ]
+django_heroku.settings(locals())
