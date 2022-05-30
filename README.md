@@ -3,7 +3,7 @@ Projeto desenvolvido para a conclusão do curso de desenvolvimeto de sistemas da
 ##########################################
 
 
-Esse sistema tem com objetivo cadastra livros em uma biblioteca, com
+Esse sistema tem com objetivo cadastra livros em uma biblioteca, atravéis de uma API desenvolvida com django rest framework com
 possibilidades de exluir livros, lista todos os livros, editar, exporta lista em CSV..
 
 
