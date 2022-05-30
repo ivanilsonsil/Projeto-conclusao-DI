@@ -7,8 +7,9 @@ Esse sistema tem com objetivo cadastra livros em uma biblioteca, com
 possibilidades de exluir livros, lista todos os livros, editar, exporta lista em CSV..
 
 
+
 Como roda o projeto??
 
 1 - git clone ....
-2 - Instalar requirements-dev.txt
+2 - Instalar requirements.txt
 3 - python manage.py runserver 
