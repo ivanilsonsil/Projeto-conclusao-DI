@@ -29,4 +29,7 @@ Como roda o projeto??
 ## 💻 Livro Cadastrado
 ![Capturar3d](https://user-images.githubusercontent.com/83482274/171680888-f09a027b-58bd-42bd-bf8f-bee0643d3bc6.PNG)
 
+## 💻 Excluir Livro
+![Capturar4ex](https://user-images.githubusercontent.com/83482274/171681353-d143d196-9133-4bb7-b2e2-5a5c79c5daac.PNG)
+
 
