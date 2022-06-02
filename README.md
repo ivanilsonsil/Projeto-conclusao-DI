@@ -13,3 +13,9 @@ Como roda o projeto??
 1 - git clone ....
 2 - Instalar requirements.txt
 3 - python manage.py runserver 
+
+![Capturar](https://user-images.githubusercontent.com/83482274/171651676-4a3146b1-72c3-47a3-99e1-87e8acfbc0be.PNG)
+
+<div align="center">
+<img src="![Capturar](https://user-images.githubusercontent.com/83482274/171651676-4a3146b1-72c3-47a3-99e1-87e8acfbc0be.PNG) "width="700px" />
+</div>
