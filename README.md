@@ -19,9 +19,9 @@ Como roda o projeto??
 - ⚡ Fun fact: ...
 -->
 
-1 - git clone ....
-2 - Instalar requirements.txt
-3 - python manage.py runserver 
+ - git clone ....
+ - Instalar requirements.txt
+ - python manage.py runserver 
 
 ## 💻 Tela de Login
 ![Capturar](https://user-images.githubusercontent.com/83482274/171651676-4a3146b1-72c3-47a3-99e1-87e8acfbc0be.PNG)
