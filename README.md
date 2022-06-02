@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Esse sistema tem com objetivo cadastra livros em uma biblioteca, atravéis de uma API desenvolvida com django rest framework com
-possibilidades de exluir livros, lista todos os livros, editar, exporta lista em CSV..
+- 🔭 Esse sistema tem com objetivo cadastrar livros em uma biblioteca, atravéis de uma API desenvolvida com django rest framework com
+possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil  exporta lista em CSV..
 
 
 
