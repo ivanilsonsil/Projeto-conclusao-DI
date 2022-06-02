@@ -1,16 +1,16 @@
-- 🌱 Projeto desenvolvido para a conclusão do curso de desenvolvimeto de sistemas da disciplina de DI- Design de Interfaces...
+<p>- 🌱 Projeto desenvolvido para a conclusão do curso de desenvolvimeto de sistemas da disciplina de DI- Design de Interfaces...</p>
 
 
 
 
-- 🔭 Esse sistema tem com objetivo cadastrar livros em uma biblioteca, atravéis de uma API desenvolvida com django rest framework com
-possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil  exporta lista em CSV..
+<p>- 🔭 Esse sistema tem com objetivo cadastrar livros em uma biblioteca, atravéis de uma API desenvolvida com django rest framework com
+possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil  exporta lista em CSV..</p>
 
 
 
+ 
 
-
-- 💬 Como roda o projeto??
+<h2>- 💬 Como roda o projeto??</2>
 
 
 
