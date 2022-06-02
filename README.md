@@ -35,5 +35,6 @@ Como roda o projeto??
 ## 💻 Exporta livro 
 ![Capturar5csv](https://user-images.githubusercontent.com/83482274/171682042-c6a33ad8-43ca-4641-8bb7-b1ab3719120a.PNG)
 
-
+## 💻 Confirgurar Perfil
+![Capturar9](https://user-images.githubusercontent.com/83482274/171683616-7a875a52-f2d6-4dcd-8b88-de8ac0f97242.PNG)
 
