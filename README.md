@@ -14,7 +14,7 @@ possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil
 
 <h2>- 😄style </h2>
 
-<P>tela de login e Cadastro temos uma cor de fundo água marinha com margem: 0;
+<P>Tela de login e Cadastro temos uma cor de fundo água marinha com margem: 0;
 preenchimento: 0; altura: 100%; bottom: DeepSkyBlue input:Gamboge...</p>
 
 
