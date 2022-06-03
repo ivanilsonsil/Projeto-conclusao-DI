@@ -1,7 +1,7 @@
 
 
 
-<span class="iconify" data-icon="simple-icons:markdown"></span>
+
 
 <p>Projeto desenvolvido para a conclusão do curso de desenvolvimeto de sistemas da disciplina de DI- Design de Interfaces...</p>
 
@@ -12,7 +12,7 @@
 possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil  exporta lista em CSV..</p>
 
 
-<h2>  style </h2>
+<h2>- 😄style </h2>
 
 <P>tela de login e Cadastro temos uma cor de fundo água marinha com margem: 0;
 preenchimento: 0; altura: 100%; bottom: DeepSkyBlue input:Gamboge...</p>
