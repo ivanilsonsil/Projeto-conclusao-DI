@@ -12,7 +12,16 @@
 possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil  exporta lista em CSV..</p>
 
 
+<p>  Estilo de cor </p>
 
+<P> Na tela de login e Cadastro temos uma cor de fundo água marinha com margem: 0;
+preenchimento: 0; altura: 100%; bottom: DeepSkyBlue input:Gamboge...</p>
+
+
+<p> Nas telas de Cadastrar Livros ,Livro Cadastrado, Tela Inicial ,Excluir Livro,Exporta Obra,Confirgurar Perfil seguir 
+ um padrão de cores Azul denim e branco. Com cabeçalho: Cinza, e Amarela , vermelho , Azul nos bottom...</p>
+ 
+ 
  
 
 <h2>- 💬 Como roda o projeto??</h2>
