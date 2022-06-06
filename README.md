@@ -11,6 +11,9 @@
 <p>Esse sistema tem com objetivo cadastrar livros em uma biblioteca, atravéis de uma API desenvolvida com django rest framework com
 possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil  exporta lista em CSV..</p>
 
+<p> Quer caber mais sobre API seguir esse link:https://django-rest-framework-simplejwt
+
+
 
 <h2>- 😄style </h2>
 
@@ -31,6 +34,9 @@ preenchimento: 0; altura: 100%; bottom: DeepSkyBlue input:Gamboge...</p>
  - git clone ....
  - Instalar requirements.txt
  - python manage.py runserver 
+
+
+ 
 
 ## 💻 Tela de Login
 ![Capturar](https://user-images.githubusercontent.com/83482274/171651676-4a3146b1-72c3-47a3-99e1-87e8acfbc0be.PNG)
