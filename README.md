@@ -11,7 +11,7 @@
 <p>Esse sistema tem com objetivo cadastrar livros em uma biblioteca, atravéis de uma API desenvolvida com django rest framework com
 possibilidades de exluir livros, lista todos os livros, editar,  Editar o Perfil  exporta lista em CSV..</p>
 
-<p> Quer caber mais sobre API seguir esse link:https://django-rest-framework-simplejwt
+<p> Quer saber mais sobre API rest framework seguir esse link:<a href="https://www.django-rest-framework.org"></p>
 
 
 
