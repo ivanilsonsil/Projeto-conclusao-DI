@@ -62,3 +62,7 @@ preenchimento: 0; altura: 100%; bottom: DeepSkyBlue input:Gamboge...</p>
 ## 💻 Confirgurar Perfil
 ![Capturar9](https://user-images.githubusercontent.com/83482274/171683616-7a875a52-f2d6-4dcd-8b88-de8ac0f97242.PNG)
 
+## 💻 Api para consumo de dados
+![Captura de tela_2021-10-17_17-47-03](https://user-images.githubusercontent.com/83482274/172413281-96558048-95d9-485a-aa08-a686f63dd811.png)
+
+
